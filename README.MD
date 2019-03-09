@@ -18,5 +18,3 @@
 * Use all your knowledge of laravel or lumen, S.O.L.I.D. principles
 * Use codebase from PHP 7.1 and 7.2
 * Connect StyleCI, Scrutinizer, TravisCI (optional)
-Routing example:
- 
