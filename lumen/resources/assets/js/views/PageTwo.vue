@@ -1,0 +1,5 @@
+<template>
+    <div class="content">
+        Page 2
+    </div>
+</template>
